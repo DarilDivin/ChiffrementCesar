@@ -4,7 +4,7 @@ Le code de César est un algorithme de chiffrement par substitution dans lequel 
 
 ## Fonction de Chiffrement César
 
-La fonction de chiffrement César (`chiffrement_cesar`) prend une chaîne de caractères et un décalage comme arguments. Elle chiffre chaque lettre alphabétique de la chaîne en utilisant le décalage spécifié.
+La fonction de chiffrement César (`crypt`) prend une chaîne de caractères et un décalage comme arguments. Elle chiffre chaque lettre alphabétique de la chaîne en utilisant le décalage spécifié.
 
 ```python
 def crypt(texte, decalage):
