@@ -64,3 +64,5 @@ Il a deux choix :
   > On lui demande de fournir le texte qu'il veut déchiffrer puis le décalage
   >
   > Le texte est alors déchiffrer et on le lui affiche.
+  
+  **NB:** Vous trouverez sur les autres branches du dépôt les algorithme de chiffrement de `Vigénère` et `Affine`.
