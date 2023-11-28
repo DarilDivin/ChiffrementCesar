@@ -118,3 +118,9 @@ Dans ce exemple, il est demandé à l'utilisateur ce qu'il veut faire.
 Il a deux choix :
 - Chiffrer 
   > On lui demande de fournir le texte qu'il veut chiffrer puis la clé de chiffrement
+  >
+  > Le texte est alors chiffrer et on le lui affiche.
+- Déchiffrer 
+  > On lui demande de fournir le texte qu'il veut déchiffrer puis la clé de chiffrement
+  >
+  > Le texte est alors déchiffrer et on le lui affiche.
